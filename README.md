@@ -13,15 +13,18 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white" />
   <img src="https://img.shields.io/badge/MSW-FF6A33?style=flat-square&logo=mockserviceworker&logoColor=white" />
-
 </div>
-<br /><br /><br />
+<br />
 
 <h3 align="center">⚒DevOps⚒</h3>
 <div align="center">
-  ec2 s3 codedeploy nginx gthub action
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+nginx
 </div>
-<br /><br /><br />
+<br />
 
 <h3 align="center">😁About Me😎</h3>
 <div align="center">
@@ -29,8 +32,12 @@
     <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" />
   </a>
 </div>
+<br />
 
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%">
+  <a href="https://github.com/tjrmswo">
+    <img src="https://github-readme-stats.vercel.app/api?username=tjrmswo&theme=merko&show_icons=true&title_color=ff69b4" style="width: auto; height:200px" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjrmswo&layout=compact&theme=merko&title_color=ffd700" style="width: auto; height:200px" />
+</div>
 
-
-[![KeunJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjrmswo&theme=merko&show_icons=true&title_color=ff69b4)](https://github.com/tjrmswo)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjrmswo&layout=compact&theme=merko&title_color=ffd700)
