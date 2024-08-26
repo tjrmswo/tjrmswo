@@ -36,8 +36,8 @@ nginx
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%">
   <a href="https://github.com/tjrmswo">
-    <img src="https://github-readme-stats.vercel.app/api?username=tjrmswo&theme=merko&show_icons=true&title_color=ff69b4" style="width: auto; height:200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tjrmswo&theme=merko&show_icons=true&title_color=ff69b4" style="width: 45%; height:200px" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjrmswo&layout=compact&theme=merko&title_color=ffd700" style="width: auto; height:200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjrmswo&layout=compact&theme=merko&title_color=ffd700" style="width: 45%; height:200px" />
 </div>
 
