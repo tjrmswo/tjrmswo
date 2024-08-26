@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=black&width=100&height=300&section=header&text=Welcome%20to%0AKeunjae%27s%20Github&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=black&width=100&height=300&section=header&text=Welcome%20to%0AKeunjae%27s%20Github&fontSize=50&animation=twinkling&fontColor=ffffff" />
 </div>
 <br />
 
@@ -34,10 +34,11 @@ nginx
 </div>
 <br />
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <a href="https://github.com/tjrmswo">
-    <img src="https://github-readme-stats.vercel.app/api?username=tjrmswo&theme=merko&show_icons=true&title_color=ff69b4" style="width: 45%; height:200px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tjrmswo&theme=merko&show_icons=true&title_color=ff69b4" style="width: 45%; height:200px; border-radius: 4.5px; border: 1px solid #e4e2e2; background: linear-gradient(to right, #f6d365, #fda085);" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjrmswo&layout=compact&theme=merko&title_color=ffd700" style="width: 45%; height:200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjrmswo&layout=compact&theme=merko&title_color=ffd700" style="width: 45%; height:200px; border-radius: 4.5px; border: 1px solid #e4e2e2; background: linear-gradient(to right, #f6d365, #fda085);" />
 </div>
+
 
