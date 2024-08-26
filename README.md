@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1ab872b2-8fba-4945-9de2-09cbb2f47c87?type=rect&color=black&width=100&height=200&section=header&text=Welcome%20to%0AKeunjae%27s%20Github&fontSize=50&animation=twinkling&fontColor=ffffff" />
+  <img src="https://github.com/user-attachments/assets/0412ff2f-8d3b-448e-a9c3-9570cb9484b9?type=rect&color=transparent&width=100&height=200&section=header&text=Welcome%20to%0AKeunjae%27s%20Github&fontSize=50&animation=twinkling&fontColor=ffffff" />
 </div>
+
+
 <br />
 
 
@@ -30,14 +32,21 @@
   <a href="https://velog.io/@tjrmswo/posts">
     <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" />
   </a>
+  <a href="https://ahead-bug-3de.notion.site/Frontend-d0808aaa2c4c4d40a6700925ce09ed99?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+  </a>
 </div>
 <br />
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <a href="https://github.com/tjrmswo">
-    <img src="https://github-readme-stats.vercel.app/api?username=tjrmswo&theme=merko&show_icons=true&title_color=ff69b4" style="width: 45%; height:200px; border-radius: 4.5px; border: 1px solid #e4e2e2; background: linear-gradient(to right, #f6d365, #fda085);" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjrmswo&layout=compact&theme=merko&title_color=ffd700" style="width: 45%; height:200px; border-radius: 4.5px; border: 1px solid #e4e2e2; background: linear-gradient(to right, #f6d365, #fda085);" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjrmswo&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=tjrmswo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&rank_icon=github" width=56% />
+</a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tjrmswo&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 
